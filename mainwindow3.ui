@@ -63,56 +63,53 @@
      <string>Sort </string>
     </property>
    </widget>
-   <widget class="QCheckBox" name="checkBox">
+   <widget class="QRadioButton" name="radioButton">
     <property name="geometry">
      <rect>
-      <x>50</x>
-      <y>90</y>
-      <width>97</width>
+      <x>120</x>
+      <y>100</y>
+      <width>117</width>
       <height>22</height>
      </rect>
     </property>
     <property name="text">
-     <string>CheckBox</string>
+     <string>Sort by size</string>
     </property>
    </widget>
-   <widget class="QCheckBox" name="checkBox_2">
+   <widget class="QRadioButton" name="radioButton_2">
     <property name="geometry">
      <rect>
-      <x>230</x>
-      <y>90</y>
-      <width>97</width>
+      <x>330</x>
+      <y>100</y>
+      <width>117</width>
       <height>22</height>
      </rect>
     </property>
     <property name="text">
-     <string>CheckBox</string>
+     <string>Sort by name</string>
     </property>
    </widget>
-   <widget class="QCheckBox" name="checkBox_3">
+   <widget class="QRadioButton" name="radioButton_3">
     <property name="geometry">
      <rect>
-      <x>410</x>
-      <y>90</y>
-      <width>97</width>
+      <x>520</x>
+      <y>100</y>
+      <width>181</width>
       <height>22</height>
      </rect>
     </property>
     <property name="text">
-     <string>CheckBox</string>
+     <string>Sort by created date</string>
     </property>
    </widget>
-   <widget class="QCheckBox" name="checkBox_4">
+   <widget class="QTextEdit" name="textEdit">
     <property name="geometry">
      <rect>
-      <x>590</x>
-      <y>90</y>
-      <width>97</width>
-      <height>22</height>
+      <x>110</x>
+      <y>250</y>
+      <width>501</width>
+      <height>201</height>
      </rect>
-    </property>
-    <property name="text">
-     <string>CheckBox</string>
     </property>
    </widget>
   </widget>

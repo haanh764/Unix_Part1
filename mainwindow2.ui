@@ -155,13 +155,13 @@
      <string>Search</string>
     </property>
    </widget>
-   <widget class="QTextBrowser" name="textBrowser">
+   <widget class="QTextEdit" name="textEdit">
     <property name="geometry">
      <rect>
-      <x>50</x>
-      <y>290</y>
-      <width>701</width>
-      <height>261</height>
+      <x>40</x>
+      <y>300</y>
+      <width>721</width>
+      <height>231</height>
      </rect>
     </property>
    </widget>
